@@ -1,48 +1,41 @@
-# 📊 Brazilian Market & Retail Insights (Power BI)
+# 📍 Retail & Market Expansion Dashboards (Brazil)
 
-This project features two Power BI dashboards designed for business decision-making in Brazil. The dashboards were created for clients in the retail and digital consulting sectors, and showcase interactive, insight-rich visualizations focused on store performance and market expansion.
-
----
-
-## 📁 Dashboards
-
-### 🎂 1. Lá Dcasa Store Performance Dashboard
-
-**Purpose:** Track sales performance across multiple store locations for a cake store chain in Brazil.  
-**Features:**  
-- Store comparison by revenue and order volume  
-- Filterable by location, product category, and date  
-- Visual KPIs for strategic decision-making
-
-📄 File: `Dashboard Lá Dcasa.pbix`
+This project includes two Power BI dashboards developed for real-world clients in Brazil to support data-driven decision-making in retail performance and market expansion.
 
 ---
 
-### 🏙️ 2. TOC Digital – Market Viability Dashboard
+## 🧁 Bolo Lá Dcasa Dashboard
 
-**Client:** [TOC Digital](https://tcodigital.com.br/)  
-**Purpose:** Analyze city-level data to evaluate market viability for expansion.  
-**Features:**  
-- Demographic breakdown by city  
-- Business opportunity indicators  
-- Regional filter for strategic targeting
+**Client:** [Bolo Lá Dcasa](https://www.bololadcasa.com.br/) – Brazilian cake shop franchise  
+**File:** `Dashboard Lá Dcasa.pbix`
 
-📄 File: `Dashboard TCO.pbix`
+**Goal:**  
+Track the performance of different franchise stores by visualizing key KPIs like revenue, sales trends, store comparisons, and top-performing regions.
+
+---
+
+## 🌐 TOC Digital Expansion Dashboard
+
+**Client:** [TOC Digital](https://tcodigital.com.br/) – Digital business consultancy  
+**File:** `Dashboard TCO.pbix`
+
+**Goal:**  
+Analyze market viability across various Brazilian cities to guide expansion strategy and investment decisions, with geospatial insights and regional comparisons.
 
 ---
 
 ## 🛠️ Tools Used
 
-- **Power BI** – for interactive dashboards  
-- **DAX & Power Query** – for custom calculations and data modeling  
-- **Excel** – for source data management
+- **Power BI** – Data modeling, DAX calculations, dynamic visuals
+- **Excel** – Source data preprocessing
+- **Geospatial Mapping** – City-based market intelligence
 
 ---
 
-## 🎯 Key Impact
+## 📁 Files
 
-- Enabled real-time performance monitoring for a multi-store cake shop  
-- Supported data-informed expansion strategy for a digital consulting firm
+- `Dashboard Lá Dcasa.pbix` – Cake franchise performance dashboard
+- `Dashboard TCO.pbix` – Market viability expansion dashboard
 
 ---
 
